@@ -6,11 +6,14 @@ Guangjie Yu and
 The Pytorch python packages:
 * torch
 * torchsummary
+
 The number processing package:
 * numpy
 * multiprocessing
+
 The progress visulization package:
 * tqdm
+
 The ploting package:
 * matplotlib
 
@@ -30,6 +33,7 @@ Make sure your notebook support it.
 
 ## Results
 
+| Type |  data |
 |----------|:-------------:|
 | Optimizer |  Adadelta |
 | hyper paremeters |  99.9998% |
