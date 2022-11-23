@@ -21,10 +21,10 @@ Make sure your notebook support it.
 
 * All codes are in Mini_Project.ipny file. The details about parameter choosing, optimizer etc are inside report pdf file.
 * The Optimizer we choosed to use is adadelta which is adam with initial momuntum.
-* The hyper paremeters we used are:
-* The final accuracy for training is:
-* The final accuracy for test is:
-* The total Epoch is:
+* The hyper paremeters we used are: 4758026
+* The final accuracy for training is: 99.99%
+* The final accuracy for test is: 92.5%
+* The total Epoch is: 100
 * 
 
 ## Results
