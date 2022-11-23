@@ -19,7 +19,8 @@ Make sure your notebook support it.
 
 ## Overview
 
-* All codes are in Mini_Project_layer4.ipny file. The details about parameter choosing, optimizer etc are inside report pdf file.
+* All codes are in Mini_Project_layer4.ipny and in Mini_Project_layer3.ipny file, where we tried selection of layers.
+* The details about parameter choosing, optimizer etc are inside report pdf file.
 * The Optimizer we choosed to use is adadelta which is adam with initial momuntum.
 * The hyper paremeters we used are: 4758026
 * The final accuracy for training is: 99.99%
@@ -27,7 +28,7 @@ Make sure your notebook support it.
 * The total Epoch is: 100
 
 
-## Results
+## Results of best performance
 
 | Type |  data |
 |----------|:-------------:|
