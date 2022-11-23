@@ -23,7 +23,7 @@ Make sure your notebook support it.
 * The Optimizer we choosed to use is adadelta which is adam with initial momuntum.
 * The hyper paremeters we used are: 4758026
 * The final accuracy for training is: 99.99%
-* The final accuracy for test is: 92.5%
+* The final accuracy for test is: 91.03%
 * The total Epoch is: 100
 
 
@@ -35,4 +35,4 @@ Make sure your notebook support it.
 | hyper paremeters | 4758026 |
 | Epoch | 100 |
 | Training Accuracy |  99.99% |
-| Testing Accuracy |    92.5%   |
+| Testing Accuracy |    91.03%   |
