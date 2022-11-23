@@ -1,6 +1,6 @@
 # DL_miniProject
 ECE-GY 7123 Deep Learning - Mini Project
-Guangjie Yu and 
+Guangjie Yu and Zhenyu Ma
 
 ## Package Requirement
 The Pytorch python packages:
