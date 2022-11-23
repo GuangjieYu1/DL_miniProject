@@ -7,10 +7,6 @@ The Pytorch python packages:
 * torch
 * torchsummary
 
-The number processing package:
-* numpy
-* multiprocessing
-
 The progress visulization package:
 * tqdm
 
