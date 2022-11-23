@@ -25,7 +25,7 @@ Make sure your notebook support it.
 * The final accuracy for training is: 99.99%
 * The final accuracy for test is: 92.5%
 * The total Epoch is: 100
-* 
+
 
 ## Results
 
