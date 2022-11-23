@@ -32,7 +32,7 @@ Make sure your notebook support it.
 | Type |  data |
 |----------|:-------------:|
 | Optimizer |  Adadelta |
-| hyper paremeters |  99.9998% |
+| hyper paremeters | 4758026 |
 | Epoch | 100 |
 | Training Accuracy |  99.99% |
-| Testing Accuracy |    91.16%   |
+| Testing Accuracy |    92.5%   |
